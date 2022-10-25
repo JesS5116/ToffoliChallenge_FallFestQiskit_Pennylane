@@ -1,2 +1,2 @@
 # ToffoliChallenge_FallFestQiskit_Pennylane
-Challenge from Pennylane for decomposing toffili gate into unitary gates
+Challenge from Pennylane provided on the Fall Fest Qiskit.
